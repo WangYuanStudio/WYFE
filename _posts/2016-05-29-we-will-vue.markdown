@@ -62,7 +62,7 @@ tags:
 
 这里再谈谈`Vue`的两大核心概念:
 
-- ####  响应的数据绑定（双向数据绑定、Two-way-binding）
+####  响应的数据绑定（双向数据绑定、Two-way-binding）
 
 ---
 
@@ -93,7 +93,7 @@ var exampleVM = new Vue({
 
 
 
-- ### 组件系统
+### 组件系统
 
 ---
 
